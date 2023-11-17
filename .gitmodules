@@ -1,3 +1,6 @@
 [submodule "aid23"]
 	path = aid23
 	url = git@github.com:ines03garcia/aid23.git
+[submodule "vi23"]
+	path = vi23
+	url = git@github.com:ines03garcia/vi23.git
